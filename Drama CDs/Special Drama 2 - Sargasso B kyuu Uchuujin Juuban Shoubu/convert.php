@@ -352,7 +352,6 @@ function appendcrc($f, $f2){
 $dh = opendir("./");
 while (false !== ($f = readdir($dh))) {
     if (strtolower(substr($f, -4, 4) !== ".ass")) continue;
-    if (false !== strpos(substr($f, 0, -4), ".")) continue;
     echo "Working on $f...\n";
     d($f);
 

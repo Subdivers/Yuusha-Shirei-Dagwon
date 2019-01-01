@@ -11,9 +11,7 @@ Audio File: ../../Soundtracks/Yuusha Shirei Dagwon - Special Drama 2 - Sargasso 
 Video File: ../../Soundtracks/Yuusha Shirei Dagwon - Special Drama 2 - Sargasso B kyuu Uchuujin Juuban Shoubu/03 - Kimi no Na wa... ~Longname Uchuujin Toujou~.mkv
 Video AR Mode: 4
 Video AR Value: 1.111111
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 107
+Video Zoom Percent: 0.625000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21,109 +19,109 @@ Style: Default,Candara,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,SETTINGS,,0,0,0,,lang:en,ko;complete:true;song:song.*
 Comment: 0,0:00:04.45,0:00:08.53,Default,ja,0,0,0,,「君の名は…」ロングネーム宇宙人登場
-Dialogue: 0,0:00:04.45,0:00:08.53,Default,ko,0,0,0,,
-Dialogue: 0,0:00:04.45,0:00:08.53,Default,en,0,0,0,,
+Dialogue: 0,0:00:04.45,0:00:08.53,Default,ko,0,0,0,,네 이름은... ~롱네임 우주인 등장~
+Dialogue: 0,0:00:04.45,0:00:08.53,Default,en,0,0,0,,Your Name is... ~Longname Alien appears~
 Comment: 0,0:00:10.78,0:00:11.91,Default,,0,0,0,,対峙するFエンとある宇宙人。
 Comment: 0,0:00:16.54,0:00:19.26,Default,ja,0,0,0,,Fエン：貴様！サルガッソの宇宙人野郎！
-Dialogue: 0,0:00:16.54,0:00:19.26,Default,ko,0,0,0,,
-Dialogue: 0,0:00:16.54,0:00:19.26,Default,en,0,0,0,,
+Dialogue: 0,0:00:16.54,0:00:19.26,Default,ko,0,0,0,,네이놈! 사르갓소의 우주인 놈이겠다!
+Dialogue: 0,0:00:16.54,0:00:19.26,Default,en,0,0,0,,You bastard must be an alien from Sargasso!
 Comment: 0,0:00:19.46,0:00:30.19,Default,ja,0,0,0,,宇宙人：クックックッ！その通りだファイヤーエン。宇宙ギネスに燦然と輝く、オレ様の名前を聞いて驚くな。
-Dialogue: 0,0:00:19.46,0:00:30.19,Default,ko,0,0,0,,
-Dialogue: 0,0:00:19.46,0:00:30.19,Default,en,0,0,0,,
+Dialogue: 0,0:00:19.46,0:00:30.19,Default,ko,0,0,0,,후후후! 그렇다, 파이어 엔. 우주 기네스에 찬란하게 빛나는 이 몸의 이름을 듣고 놀라지 마라.
+Dialogue: 0,0:00:19.46,0:00:30.19,Default,en,0,0,0,,Hahaha! Yes, Fire En. Don't be surprised after listening to my name, a shining entry in Space Guinness Records!
 Comment: 0,0:00:30.58,0:00:31.22,Default,ja,0,0,0,,Fエン：何？
-Dialogue: 0,0:00:30.58,0:00:31.22,Default,ko,0,0,0,,
-Dialogue: 0,0:00:30.58,0:00:31.22,Default,en,0,0,0,,
+Dialogue: 0,0:00:30.58,0:00:31.22,Default,ko,0,0,0,,뭐?
+Dialogue: 0,0:00:30.58,0:00:31.22,Default,en,0,0,0,,What?
 Comment: 0,0:00:31.51,0:00:33.89,Default,ja,0,0,0,,宇宙人：オレの名は寿限無寿限無。
-Dialogue: 0,0:00:31.51,0:00:33.89,Default,ko,0,0,0,,
-Dialogue: 0,0:00:31.51,0:00:33.89,Default,en,0,0,0,,
+Dialogue: 0,0:00:31.51,0:00:33.89,Default,ko,0,0,0,,내 이름은 쥬게무쥬게무.\N(쥬게무: {\fnMeiryo UI}寿限無{\r}, 긴 이름의 비유)
+Dialogue: 0,0:00:31.51,0:00:33.89,Default,en,0,0,0,,My name is Jugemujugemu.\N(Jugemu: {\fnMeiryo UI}寿限無{\r}, common metaphorical expression for long names)
 Comment: 0,0:00:34.43,0:00:35.91,Default,ja,0,0,0,,Fエン：寿限無寿限無星人だと？
-Dialogue: 0,0:00:34.43,0:00:35.91,Default,ko,0,0,0,,
-Dialogue: 0,0:00:34.43,0:00:35.91,Default,en,0,0,0,,
+Dialogue: 0,0:00:34.43,0:00:35.91,Default,ko,0,0,0,,쥬게무쥬게무 성인이군!
+Dialogue: 0,0:00:34.43,0:00:35.91,Default,en,0,0,0,,So you must be Jugemujugemu Seijin!
 Comment: 0,0:00:35.96,0:00:41.76,Default,ja,0,0,0,,宇宙人：違う。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末。
-Dialogue: 0,0:00:35.96,0:00:41.76,Default,ko,0,0,0,,
-Dialogue: 0,0:00:35.96,0:00:41.76,Default,en,0,0,0,,
+Dialogue: 0,0:00:35.96,0:00:41.76,Default,ko,0,0,0,,아니지. 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠...
+Dialogue: 0,0:00:35.96,0:00:41.76,Default,en,0,0,0,,Wrong. I am Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu...
 Comment: 0,0:00:42.09,0:00:50.10,Default,ja,0,0,0,,Fエン：変わった名前の宇宙人だな。何々、寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末星人か？
-Dialogue: 0,0:00:42.09,0:00:50.10,Default,ko,0,0,0,,
-Dialogue: 0,0:00:42.09,0:00:50.10,Default,en,0,0,0,,
+Dialogue: 0,0:00:42.09,0:00:50.10,Default,ko,0,0,0,,이상한 이름의 우주인이군. 어디어디, 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠 성인이냐?
+Dialogue: 0,0:00:42.09,0:00:50.10,Default,en,0,0,0,,Aren't you an alien with a strange name? Let's see, so you're Jugemujugemu Surikire, Kaizarisuigyo no Suigyoumatsu Seijin, right?
 Comment: 0,0:00:50.26,0:00:53.65,Default,ja,0,0,0,,宇宙人：雲来末、風来末…\NFエン：え？まだ続くのかよ？
-Dialogue: 0,0:00:50.26,0:00:53.65,Default,ko,0,0,0,,
-Dialogue: 0,0:00:50.26,0:00:53.65,Default,en,0,0,0,,
+Dialogue: 0,0:00:50.26,0:00:53.65,Default,ko,0,0,0,,-운라이마츠, 후우라이마츠...\N-뭐? 더 있냐?
+Dialogue: 0,0:00:50.26,0:00:53.65,Default,en,0,0,0,,-Unraimatsu, Fuuraimatsu....\N-What? It's not over yet?
 Comment: 0,0:00:53.81,0:01:03.18,Default,ja,0,0,0,,宇宙人：食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人だ。
-Dialogue: 0,0:00:53.81,0:01:03.18,Default,ko,0,0,0,,
-Dialogue: 0,0:00:53.81,0:01:03.18,Default,en,0,0,0,,
+Dialogue: 0,0:00:53.81,0:01:03.18,Default,ko,0,0,0,,쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인이다.
+Dialogue: 0,0:00:53.81,0:01:03.18,Default,en,0,0,0,,...Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin.
 Comment: 0,0:01:03.74,0:01:06.82,Default,ja,0,0,0,,Fエン：えーッ！それ、みんな、お前一人の名前かよ！
-Dialogue: 0,0:01:03.74,0:01:06.82,Default,ko,0,0,0,,
-Dialogue: 0,0:01:03.74,0:01:06.82,Default,en,0,0,0,,
+Dialogue: 0,0:01:03.74,0:01:06.82,Default,ko,0,0,0,,헉! 이거 다 너 혼자의 이름이냐!
+Dialogue: 0,0:01:03.74,0:01:06.82,Default,en,0,0,0,,Damn! Is that all you one's name?
 Comment: 0,0:01:06.86,0:01:16.55,Default,ja,0,0,0,,宇宙人：ガッハハハハ！どうだ驚いたか？オレ様はほかの星の宇宙人と決闘し、勝った相手の名前を次々に頂戴して来たのだ。
-Dialogue: 0,0:01:06.86,0:01:16.55,Default,ko,0,0,0,,
-Dialogue: 0,0:01:06.86,0:01:16.55,Default,en,0,0,0,,
+Dialogue: 0,0:01:06.86,0:01:16.55,Default,ko,0,0,0,,크하하하하! 어떠냐, 놀랐냐! 이 몸은 다른 행성의 우주인과 결투해서 이긴 상대의 이름을 하나하나 접수해 왔다.
+Dialogue: 0,0:01:06.86,0:01:16.55,Default,en,0,0,0,,Hahahahaha! Were you surprised? I've been taking the names of the alien opponents from other planets that I defeated.
 Comment: 0,0:01:16.63,0:01:17.99,Default,,0,0,0,,その時、ピピピー通信機のコール音。
 Comment: 0,0:01:18.08,0:01:21.03,Default,ja,0,0,0,,Tカイ：こちらかい！エン、宇宙人の正体は分かったか？
-Dialogue: 0,0:01:18.08,0:01:21.03,Default,ko,0,0,0,,
-Dialogue: 0,0:01:18.08,0:01:21.03,Default,en,0,0,0,,
-Comment: 0,0:01:21.54,0:01:32.22,Default,ja,0,0,0,,Fエン：うん、ふざけた宇宙人野郎だぜ。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、　…住むところ…
-Dialogue: 0,0:01:21.54,0:01:32.22,Default,ko,0,0,0,,
-Dialogue: 0,0:01:21.54,0:01:32.22,Default,en,0,0,0,,
+Dialogue: 0,0:01:18.08,0:01:21.03,Default,ko,0,0,0,,여긴 카이! 엔, 우주인의 정체는 알아냈냐?
+Dialogue: 0,0:01:18.08,0:01:21.03,Default,en,0,0,0,,This is Kai. En, did you figure out how is the alien like?
+Comment: 0,0:01:21.54,0:01:32.22,Default,ja,0,0,0,,Fエン：あ、ふざけた宇宙人野郎だぜ。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、　…住むところ…
+Dialogue: 0,0:01:21.54,0:01:32.22,Default,ko,0,0,0,,그래, 말도 안 되는 우주인 놈이야. 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, ... 스무 도코로...
+Dialogue: 0,0:01:21.54,0:01:32.22,Default,en,0,0,0,,Yeah, it's an alien just fooling around. This is Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, ... Sumu Tokoro....
 Comment: 0,0:01:32.52,0:01:34.67,Default,ja,0,0,0,,宇宙人：やぶらこうじのぶらこうじ、だ。
-Dialogue: 0,0:01:32.52,0:01:34.67,Default,ko,0,0,0,,
-Dialogue: 0,0:01:32.52,0:01:34.67,Default,en,0,0,0,,
+Dialogue: 0,0:01:32.52,0:01:34.67,Default,ko,0,0,0,,야부라코오지노 부라코우지다!
+Dialogue: 0,0:01:32.52,0:01:34.67,Default,en,0,0,0,,It's Yaburakouji no Burakouji!
 Comment: 0,0:01:34.85,0:01:47.88,Default,ja,0,0,0,,Fエン：あ、サンキュ。やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人、って言う気の遠くなる様な名前の宇宙人だ。
-Dialogue: 0,0:01:34.85,0:01:47.88,Default,ko,0,0,0,,
-Dialogue: 0,0:01:34.85,0:01:47.88,Default,en,0,0,0,,
+Dialogue: 0,0:01:34.85,0:01:47.88,Default,ko,0,0,0,,아, 땡큐. 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인... 이라는 부르기 참 긴 이름의 우주인이야.
+Dialogue: 0,0:01:34.85,0:01:47.88,Default,en,0,0,0,,Oh, thank you. ...Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin, an alien with a name so long to pronounce.
 Comment: 0,0:01:48.20,0:02:05.13,Default,ja,0,0,0,,Tカイ：何？では今回のサルガッソの宇宙人は寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人というのか？
-Dialogue: 0,0:01:48.20,0:02:05.13,Default,ko,0,0,0,,
-Dialogue: 0,0:01:48.20,0:02:05.13,Default,en,0,0,0,,
+Dialogue: 0,0:01:48.20,0:02:05.13,Default,ko,0,0,0,,뭣이? 그럼 이번 사르갓소의 우주인은 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인이라는 거냐?
+Dialogue: 0,0:01:48.20,0:02:05.13,Default,en,0,0,0,,What? So, the Sargasso alien this time is Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin, right?
 Comment: 0,0:02:05.38,0:02:06.68,Default,ja,0,0,0,,Fエン：だからそう言ってるだろ。
-Dialogue: 0,0:02:05.38,0:02:06.68,Default,ko,0,0,0,,
-Dialogue: 0,0:02:05.38,0:02:06.68,Default,en,0,0,0,,
+Dialogue: 0,0:02:05.38,0:02:06.68,Default,ko,0,0,0,,그러니까 그렇다고 했잖아!
+Dialogue: 0,0:02:05.38,0:02:06.68,Default,en,0,0,0,,I just told you that's right!
 Comment: 0,0:02:07.45,0:02:25.37,Default,ja,0,0,0,,Wヨク：それでその、寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人の特徴を詳しく教えて下さい。
-Dialogue: 0,0:02:07.45,0:02:25.37,Default,ko,0,0,0,,
-Dialogue: 0,0:02:07.45,0:02:25.37,Default,en,0,0,0,,
+Dialogue: 0,0:02:07.45,0:02:25.37,Default,ko,0,0,0,,그럼 그 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인의 특징을 자세히 알려 주세요.
+Dialogue: 0,0:02:07.45,0:02:25.37,Default,en,0,0,0,,Then, please tell us Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin's distinctive features in detail.
 Comment: 0,0:02:25.93,0:02:27.27,Default,ja,0,0,0,,Fエン：特徴って言われてもな。
-Dialogue: 0,0:02:25.93,0:02:27.27,Default,ko,0,0,0,,
-Dialogue: 0,0:02:25.93,0:02:27.27,Default,en,0,0,0,,
+Dialogue: 0,0:02:25.93,0:02:27.27,Default,ko,0,0,0,,특징이라, 뭐가 있을까...
+Dialogue: 0,0:02:25.93,0:02:27.27,Default,en,0,0,0,,Distinctive features, eh?
 Comment: 0,0:02:27.52,0:02:44.39,Default,ja,0,0,0,,Aシン：例えばあるだろ。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人のキック力はジャイアント馬場の５０倍あるとか。
-Dialogue: 0,0:02:27.52,0:02:44.39,Default,ko,0,0,0,,
-Dialogue: 0,0:02:27.52,0:02:44.39,Default,en,0,0,0,,
+Dialogue: 0,0:02:27.52,0:02:44.39,Default,ko,0,0,0,,그러니까 이런 거 말야! 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인의 발차기 힘은 자이언트 마장의 50배나 된다던가.
+Dialogue: 0,0:02:27.52,0:02:44.39,Default,en,0,0,0,,Something like this! Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin's kicking power is 50 times the Giant Baba's, or something like that.
 Comment: 0,0:02:44.53,0:03:02.63,Default,ja,0,0,0,,Dゲキ：そうそう。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人の耳は一キロ四方の針の落ちた音もキャッチできるとかな。
-Dialogue: 0,0:02:44.53,0:03:02.63,Default,ko,0,0,0,,
-Dialogue: 0,0:02:44.53,0:03:02.63,Default,en,0,0,0,,
+Dialogue: 0,0:02:44.53,0:03:02.63,Default,ko,0,0,0,,그래그래, 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인의 귀는 1킬로미터 밖에서 떨어지는 열쇠의 소리도 잡아낸다던가 하는.
+Dialogue: 0,0:02:44.53,0:03:02.63,Default,en,0,0,0,,Yeah, yeah! Like, Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin's ear can catch key dropping sounds from outside 1 kilometer, or something like that!
 Comment: 0,0:03:03.06,0:03:05.88,Default,ja,0,0,0,,Wヨク：それでは昔の怪獣図鑑です。
-Dialogue: 0,0:03:03.06,0:03:05.88,Default,ko,0,0,0,,
-Dialogue: 0,0:03:03.06,0:03:05.88,Default,en,0,0,0,,
+Dialogue: 0,0:03:03.06,0:03:05.88,Default,ko,0,0,0,,그렇게는 그냥 옛날 괴수 도감이네요!
+Dialogue: 0,0:03:03.06,0:03:05.88,Default,en,0,0,0,,That kind of thing would be important only for monster picture books from the past!
 Comment: 0,0:03:06.44,0:03:23.18,Default,ja,0,0,0,,Sリュウ：とにかく我々が到着するまで、寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人はお前に任せたぞ。
-Dialogue: 0,0:03:06.44,0:03:23.18,Default,ko,0,0,0,,
-Dialogue: 0,0:03:06.44,0:03:23.18,Default,en,0,0,0,,
+Dialogue: 0,0:03:06.44,0:03:23.18,Default,ko,0,0,0,,어쨌든 우리가 도착할 때까지 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인은 네게 맡긴다.
+Dialogue: 0,0:03:06.44,0:03:23.18,Default,en,0,0,0,,Anyway, keep Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin busy until we join.
 Comment: 0,0:03:23.56,0:03:39.35,Default,ja,0,0,0,,Fエン：分かった！…やい、寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人！このオレが相手だ！
-Dialogue: 0,0:03:23.56,0:03:39.35,Default,ko,0,0,0,,
-Dialogue: 0,0:03:23.56,0:03:39.35,Default,en,0,0,0,,
+Dialogue: 0,0:03:23.56,0:03:39.35,Default,ko,0,0,0,,알겠다! 야이, 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인! 이 내가 상대다!
+Dialogue: 0,0:03:23.56,0:03:39.35,Default,en,0,0,0,,Got it! Hey, you Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin, I will face you!
 Comment: 0,0:03:39.96,0:03:45.61,Default,ja,0,0,0,,宇宙人：フン、お前を倒し、ファイヤーエンの名前はこのオレが頂戴する。
-Dialogue: 0,0:03:39.96,0:03:45.61,Default,ko,0,0,0,,
-Dialogue: 0,0:03:39.96,0:03:45.61,Default,en,0,0,0,,
+Dialogue: 0,0:03:39.96,0:03:45.61,Default,ko,0,0,0,,흥, 널 쓰러트리고 파이어 엔의 이름은 이 내가 가져가겠다!
+Dialogue: 0,0:03:39.96,0:03:45.61,Default,en,0,0,0,,Hmph! I'll take you down and take the name Fire En for me!
 Comment: 0,0:03:45.65,0:03:46.47,Default,ja,0,0,0,,Fエン：貴様！
-Dialogue: 0,0:03:45.65,0:03:46.47,Default,ko,0,0,0,,
-Dialogue: 0,0:03:45.65,0:03:46.47,Default,en,0,0,0,,
+Dialogue: 0,0:03:45.65,0:03:46.47,Default,ko,0,0,0,,네이놈!
+Dialogue: 0,0:03:45.65,0:03:46.47,Default,en,0,0,0,,How dare you!
 Comment: 0,0:03:47.45,0:03:49.30,Default,ja,0,0,0,,ライアン：一寸待って！ファイヤーエン！
-Dialogue: 0,0:03:47.45,0:03:49.30,Default,ko,0,0,0,,
-Dialogue: 0,0:03:47.45,0:03:49.30,Default,en,0,0,0,,
+Dialogue: 0,0:03:47.45,0:03:49.30,Default,ko,0,0,0,,잠깐 기다려라! 파이어 엔!
+Dialogue: 0,0:03:47.45,0:03:49.30,Default,en,0,0,0,,Wait a moment, Fire En!
 Comment: 0,0:03:50.08,0:03:52.25,Default,,0,0,0,,ズズーン！ライアンの着陸音。
 Comment: 0,0:03:52.72,0:03:54.37,Default,ja,0,0,0,,Fエン：ライアン！来てくれたのか！
-Dialogue: 0,0:03:52.72,0:03:54.37,Default,ko,0,0,0,,
-Dialogue: 0,0:03:52.72,0:03:54.37,Default,en,0,0,0,,
+Dialogue: 0,0:03:52.72,0:03:54.37,Default,ko,0,0,0,,라이안! 와 줬구나!
+Dialogue: 0,0:03:52.72,0:03:54.37,Default,en,0,0,0,,Lian! You came!
 Comment: 0,0:03:54.85,0:04:11.82,Default,ja,0,0,0,,ライアン：ファイヤーエン。オレはかつて、その寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人と決闘し、勝ったことがある。
-Dialogue: 0,0:03:54.85,0:04:11.82,Default,ko,0,0,0,,
-Dialogue: 0,0:03:54.85,0:04:11.82,Default,en,0,0,0,,
+Dialogue: 0,0:03:54.85,0:04:11.82,Default,ko,0,0,0,,파이어 엔. 나는 이전에 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인과 결투해서 이긴 적이 있다.
+Dialogue: 0,0:03:54.85,0:04:11.82,Default,en,0,0,0,,Fire En, I have fought Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin and won before.
 Comment: 0,0:04:12.21,0:04:28.94,Default,ja,0,0,0,,Fエン：何！じゃぁライアン。お前は寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人の弱点を知っているのか？
-Dialogue: 0,0:04:12.21,0:04:28.94,Default,ko,0,0,0,,
-Dialogue: 0,0:04:12.21,0:04:28.94,Default,en,0,0,0,,
+Dialogue: 0,0:04:12.21,0:04:28.94,Default,ko,0,0,0,,뭐라고!? 그럼 라이안, 너는 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인의 약점도 알고 있겠네?
+Dialogue: 0,0:04:12.21,0:04:28.94,Default,en,0,0,0,,What!? Then, Lian, do you know the weak points of Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin?
 Comment: 0,0:04:29.43,0:04:47.16,Default,ja,0,0,0,,ライアン：勿論だ。寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末五劫のすりきれ、海砂利水魚の水行末、雲来末、風来末、食うねるところに住むところ、やぶらこうじのぶらこうじ、パイポパイポ、パイポのシューリンガン、シューリンガンのグーリンダイ、グーリンダイのポンポコピーのポンポコナの長久命の長助星人の弱点は、弱点は…えーと？
-Dialogue: 0,0:04:29.43,0:04:47.16,Default,ko,0,0,0,,
-Dialogue: 0,0:04:29.43,0:04:47.16,Default,en,0,0,0,,
+Dialogue: 0,0:04:29.43,0:04:47.16,Default,ko,0,0,0,,물론이다. 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠, 운라이마츠, 후우라이마츠, 쿠우네루 도코로니 스무 도코로, 야부라코오지노 부라코우지, 파이포파이포, 파이포노 슈우링간, 슈우링간노 구우린다이, 구우린다이노 폼포코피이노 폼포코나노 쵸오큐우메이노 쵸오스케 성인의 약점은... 약점은... 음....
+Dialogue: 0,0:04:29.43,0:04:47.16,Default,en,0,0,0,,Of course. Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu, Unraimatsu, Fuuraimatsu, Kuuneru Tokoro ni Sumu Tokoro, Yaburakouji no Burakouji, Paipopaipo, Paipo no Shuuringan, Shuuringan no Guurindai, Guurindai no Pompokopii no Pompokona no Choukyuumei no Chousuke Seijin's weak point is... weak point... hmm...
 Comment: 0,0:04:47.86,0:04:51.11,Default,ja,0,0,0,,Fエン：どうしたライアン？早く奴の弱点を教えてくれ！
-Dialogue: 0,0:04:47.86,0:04:51.11,Default,ko,0,0,0,,
-Dialogue: 0,0:04:47.86,0:04:51.11,Default,en,0,0,0,,
+Dialogue: 0,0:04:47.86,0:04:51.11,Default,ko,0,0,0,,왜 그래, 라이안!? 어서 놈의 약점을 알려줘!
+Dialogue: 0,0:04:47.86,0:04:51.11,Default,en,0,0,0,,What's wrong, Lian!? Hurry up and tell me his weakness!
 Comment: 0,0:04:52.05,0:04:56.84,Default,ja,0,0,0,,ライアン：すまん、余りにも奴の名前が長いので…忘れてしまった。
-Dialogue: 0,0:04:52.05,0:04:56.84,Default,ko,0,0,0,,
-Dialogue: 0,0:04:52.05,0:04:56.84,Default,en,0,0,0,,
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:04:52.05,0:04:56.84,Default,ko,0,0,0,,미안, 얘 이름이 너무 길어서 잊어버렸다.
+Dialogue: 0,0:04:52.05,0:04:56.84,Default,en,0,0,0,,Sorry. His name is too long that I forgot.

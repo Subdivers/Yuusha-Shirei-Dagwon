@@ -6,14 +6,14 @@ PlayResX: 1200
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: 05 - Mezase! Senten Manten ~Brave Seijin Toujou~.mkv
-Video File: 05 - Mezase! Senten Manten ~Brave Seijin Toujou~.mkv
+Audio File: ../../Soundtracks/Yuusha Shirei Dagwon - Special Drama 2 - Sargasso B kyuu Uchuujin Juuban Shoubu/05 - Mezase! Senten Manten ~Brave Seijin Toujou~.mkv
+Video File: ../../Soundtracks/Yuusha Shirei Dagwon - Special Drama 2 - Sargasso B kyuu Uchuujin Juuban Shoubu/05 - Mezase! Senten Manten ~Brave Seijin Toujou~.mkv
 Video AR Mode: 4
 Video AR Value: 1.111111
 Video Zoom Percent: 0.500000
-Scroll Position: 177
-Active Line: 211
-Video Position: 8080
+Scroll Position: 90
+Active Line: 114
+Video Position: 4194
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +29,7 @@ Comment: 0,0:00:14.39,0:00:22.67,Default,ja,0,0,0,,ライアン：いったい�
 Dialogue: 0,0:00:14.39,0:00:22.67,Default,ko,0,0,0,,대체 누구지? 텔레파시로 남극까지 부른 게... 분명, 중대한 요건이 있다고 했는데...
 Dialogue: 0,0:00:14.39,0:00:22.67,Default,en,0,0,0,,Who called me to the south pole via telepathy...? He said he got an important matter to discuss about....
 Comment: 0,0:00:24.04,0:00:26.04,Default,ja,0,0,0,,ブレイブ星人：よく来てくれた、ミスター・ライアン…
-Dialogue: 0,0:00:24.04,0:00:26.04,Default,ko,0,0,0,,잘 와 주었다, 미스터 라이언!
+Dialogue: 0,0:00:24.04,0:00:26.04,Default,ko,0,0,0,,잘 와 주었다, 미스터 라이안!
 Dialogue: 0,0:00:24.04,0:00:26.04,Default,en,0,0,0,,Good to have you here, Mister Lian!
 Comment: 0,0:00:26.60,0:00:28.73,Default,ja,0,0,0,,ライアン：むっ！？あ、あなたは。。。！
 Dialogue: 0,0:00:26.60,0:00:28.73,Default,ko,0,0,0,,음? 다, 당신은...!
@@ -78,7 +78,7 @@ Dialogue: 0,0:01:34.29,0:01:44.95,Default,ko,0,0,0,,그러고 보니, 어렸을 
 Dialogue: 0,0:01:34.29,0:01:40.72,Default,en,0,0,0,,When I was young, I always wanted to join the Space Police Organization when I grow up...
 Dialogue: 0,0:01:41.77,0:01:44.95,Default,en,0,0,0,,I never thought that dream would become true...
 Comment: 0,0:01:45.59,0:01:52.01,Default,ja,0,0,0,,ミスター・ライアン。君さえよければさっそく、入隊試験を始めたいのだ。
-Dialogue: 0,0:01:45.59,0:01:52.01,Default,ko,0,0,0,,미스터 라이언. 자네가 좋다면 지금 즉시 입대 시험을 시작하고 싶다.
+Dialogue: 0,0:01:45.59,0:01:52.01,Default,ko,0,0,0,,미스터 라이안. 자네가 좋다면 지금 즉시 입대 시험을 시작하고 싶다.
 Dialogue: 0,0:01:45.59,0:01:52.01,Default,en,0,0,0,,Mister Lian, I would like to begin the entrance exam right now, if you'd accept.
 Comment: 0,0:01:52.53,0:01:55.67,Default,ja,0,0,0,,あ？ああ、俺は構わんが…
 Dialogue: 0,0:01:52.53,0:01:55.67,Default,ko,0,0,0,,어? 음, 나는 괜찮다.
@@ -127,7 +127,7 @@ Dialogue: 0,0:02:38.00,0:02:39.44,Default,ko,0,0,0,,다, 다, 다그온!
 Dialogue: 0,0:02:38.00,0:02:39.44,Default,en,0,0,0,,Da... Da... Dagwon!
 Comment: 0,0:02:40.28,0:02:47.60,Default,ja,0,0,0,,ブーッ。零点。今度は早口言葉だ。赤巻紙、青巻紙、黄巻紙！
 Dialogue: 0,0:02:40.28,0:02:47.60,Default,ko,0,0,0,,땡. 0점. 이번엔 빠르게 똑바로 말하기다.\N아카마키가미 아오마키가미 키마키가미\N(빨간 두루마리, 파란 두루마리, 노란 두루마리)
-Dialogue: 0,0:02:40.28,0:02:47.60,Default,en,0,0,0,,Bzzt. Zero points. This time, it will be swift pronunciation challenge.\Nakamakigami aomakigami kimakigami\N(red roll paper, blue roll paper, yellow roll paper)
+Dialogue: 0,0:02:40.28,0:02:47.60,Default,en,0,0,0,,Bzzt. Zero points. This time, it will be tongue twister challenge.\Nakamakigami aomakigami kimakigami\N(red roll paper, blue roll paper, yellow roll paper)
 Comment: 0,0:02:47.74,0:02:50.67,Default,ja,0,0,0,,あかまきまき、あおまきがき、きまきまききつづき。。。
 Dialogue: 0,0:02:47.74,0:02:50.67,Default,ko,0,0,0,,아카마키마키 아오마키가키 키마키마키키츠즈키\N(아카마키가미 아오마키가미 키마키가미)
 Dialogue: 0,0:02:47.74,0:02:50.67,Default,en,0,0,0,,akamakimaki aomakigaki kimakimakikitsuzuki\N(akamakigami aomakigami kimakigami)
@@ -135,7 +135,7 @@ Comment: 0,0:02:51.44,0:02:53.80,Default,ja,0,0,0,,ブーッ。零点。。。
 Dialogue: 0,0:02:51.44,0:02:53.80,Default,ko,0,0,0,,땡. 0점...
 Dialogue: 0,0:02:51.44,0:02:53.80,Default,en,0,0,0,,Bzzt. Zero points...
 Comment: 0,0:02:54.74,0:03:01.35,Default,ja,0,0,0,,あ、ミスター・ライアン、すまないが今回の話はなかったことにしてくれないか？
-Dialogue: 0,0:02:54.74,0:03:01.35,Default,ko,0,0,0,,아, 미스터 라이언, 미안하지만 이번 이야기는 없던 일로 하지 않겠나.
+Dialogue: 0,0:02:54.74,0:03:01.35,Default,ko,0,0,0,,아, 미스터 라이안, 미안하지만 이번 이야기는 없던 일로 하지 않겠나.
 Dialogue: 0,0:02:54.74,0:03:01.35,Default,en,0,0,0,,Well, Mister Lian, I regret to inform you that my offer is now void.
 Comment: 0,0:03:01.42,0:03:05.73,Default,ja,0,0,0,,そ、そんな！俺が不合格だというのか！？
 Dialogue: 0,0:03:01.42,0:03:05.73,Default,ko,0,0,0,,그, 그런! 내가 불합격이라는 건가!?
@@ -165,7 +165,7 @@ Comment: 0,0:03:40.30,0:03:46.49,Default,ja,0,0,0,,いいや！不良品は始�
 Dialogue: 0,0:03:40.30,0:03:46.49,Default,ko,0,0,0,,아니다! 불량품은 없애야 한다! 그리고 지금이야말로 참된 용자가 될 인재를...
 Dialogue: 0,0:03:40.30,0:03:46.49,Default,en,0,0,0,,Wrong! Defective ones must be disposed! The time has came to pick the right persons of talent who'll become the new brave warriors....
 Comment: 0,0:03:46.92,0:03:54.21,Default,ja,0,0,0,,新たなるダグオンを選ぶ時が来たのだ。。。もちろん、君にも白羽の矢を立てているよ、ミスター・ライアン！
-Dialogue: 0,0:03:46.92,0:03:54.21,Default,ko,0,0,0,,새로운 다그온을 뽑을 때가 온 것이다! 물론, 자네는 이미 뽑혀 있지, 미스터 라이언!
+Dialogue: 0,0:03:46.92,0:03:54.21,Default,ko,0,0,0,,새로운 다그온을 뽑을 때가 온 것이다! 물론, 자네는 이미 뽑혀 있지, 미스터 라이안!
 Dialogue: 0,0:03:46.92,0:03:54.21,Default,en,0,0,0,,It's time to pick new Dagwons! Of course, you are already as good as picked, Mister Lian!
 Comment: 0,0:03:54.85,0:03:58.89,Default,ja,0,0,0,,俺が、この俺が新たなダグオンに。。。
 Dialogue: 0,0:03:54.85,0:03:58.89,Default,ko,0,0,0,,내가? 이 내가 새로운 다그온이?
