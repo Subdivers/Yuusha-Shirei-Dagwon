@@ -1,0 +1,70 @@
+SongOP:A shudder runs over the blue planet:푸른 지구에 전율이 흐른다
+SongOP:It's the time the dark storm approaches:검은 폭풍이 닥쳐오는 순간
+SongOP:It's as if a hero is awakening on the inside:마음 속의 눈을 뜬 영웅들이여
+SongOP:Fly away and don't look back!:뒤돌아보지 말고 날아가라
+SongOP:Dagwon... Shine on!! Dagwon!:다그온 빛나라!! 다그온
+SongOP:The name that protects the peace:평화를 지키는 이름이다
+SongOP:Dagwon! We are Dagwon!:다그온 우리는 다그온
+SongOP:We will never hand over our dream:꿈은 절대로 넘겨줄 수 없다
+SongOP:To grab the overflowing courage:넘쳐흐르는 용기를 거머쥐고 싶다면
+SongOP:We believe in our friendship firmly:우리 우정을 굳게 믿는 거다
+SongOP:We are not afraid of getting hurt:상처입는 것도 두렵지 않아
+SongOP:In order to reach that infinite future!:무한대의 미래를 그려내기 위해서라면
+SongED:The sun suddenly called me:태양이 갑작스레 나를 불러내서
+SongED:To come to the blue sea:푸르게 비치는 바다로 만나러 갔지
+SongED:The ripples are coming and going:밀려왔다 돌아가는 잔물결
+SongED:An endless melody:멈추지 않는 멜로디
+SongED:To keep that shape for eternity:그 모습을 영원히 유지할 수 있도록
+SongED:I'll follow the fate of the dream:꿈의 행방을 뒤쫓아 갈 거야
+SongED:Sparkling far away:멀리서 반짝이던
+SongED:A Prism in the Wind:바람 속의 프리즘
+SongInsOP:Shudder runs over the beautiful planet:아름다운 행성에 전율이 흐른다
+SongInsOP:Feeling the moment the storm is coming on:폭풍이 오는 순간을 느끼며
+SongInsOP:Just like a hero inside is awakening:마음 속에서 깨어나는 영웅과 같이
+SongInsOP:Let's go! Let's fly away! Don't look back again!:가자! 날아가자! 뒤돌아보지 마라!
+SongInsOP:Dagwon... Keep on shining!! Dagwon!:다그온... 계속 빛나라! 다그온!
+SongInsOP:Get it on! It's the name of peace to love:지켜라! 사랑해야 할 평화의 이름
+SongInsOP:Dagwon... You know we are Dagwon!:다그온... 우리는 다그온!
+SongInsOP:Get it on... Nobody can take our dreams away!:우리 꿈은 그 누구도 가져갈 수 없어!
+SongInsOP:Oh, please if you wanna win trust and courage:신뢰와 우정을 얻고 싶다면 꼭
+SongInsOP:Believe in believe in just believe in friendship, powerfully:믿어라 믿어라 우정을 믿어라 강력하게
+SongInsOP:Do the right thing forever, don't be afraid of damage:피해에 개의치 않고 끝까지 옳은 것을 해라
+SongInsOP:Go ahead, go ahead, just go ahead for the future to dream:나아가, 나아가, 쭉 나아가라! 꿈 속의 미래를 위해!
+SongInsOP:A shudder runs over the blue planet:푸른 지구에 전율이 흐른다
+SongInsOP:It's the time the dark storm approaches:검은 폭풍이 닥쳐오는 순간
+SongInsOP:It's as if a hero is awakening on the inside:마음 속의 눈을 뜬 영웅들이여
+SongInsOP:Fly away and don't look back!:뒤돌아보지 말고 날아가라
+SongInsOP:Dagwon! We are Dagwon!:다그온 우리는 다그온
+SongInsOP:We will never hand over our dream:꿈은 절대로 넘겨줄 수 없다
+SongInsOP:To grab the overflowing courage:넘쳐흐르는 용기를 거머쥐고 싶다면
+SongInsOP:We believe in our friendship firmly:우리 우정을 굳게 믿는 거다
+SongInsOP:We are not afraid of getting hurt:상처입는 것도 두렵지 않아
+SongInsOP:In order to reach that infinite future!:무한대의 미래를 그려내기 위해서라면
+SongInsFireDagwon:Darkness is coming, crisis is approaching Earth:어둠이 온다 지구에 위기가 다가온다
+SongInsFireDagwon:You will rise:그대여 일어나라
+SongInsFireDagwon:Transform to Fire En:파이어 엔으로 변신이다
+SongInsFireDagwon:{\i1}Try Dagwon!:{\i1}트라이 다그온!
+SongInsFireDagwon:Go toward the figure of an enemy recklessly:무조건 적을 향하는 그 모습
+SongInsFireDagwon:like the light on a fuse:도화선의 불길처럼
+SongInsFireDagwon:Track down to anywhere:어디까지나 밀어붙이는 거야
+SongInsFireDagwon:A formidable opponent in the fighting spirit:강적에 투지를 불태워
+SongInsFireDagwon:Go increase your power:파워를 올려 상대해라
+SongInsFireDagwon:{\i1}Merging Fusion! Dag Fire!:{\i1}융합합체! 다그 파이어!
+SongInsFireDagwon:Fight! Shatter! Their ambitions!:쳐라! 때려부셔라! 녀석들의 야망
+SongInsFireDagwon:Make them regret coming to Earth:지구에 온 것을 후회하게 만들어 주어라
+SongInsFireDagwon:Run! Strike! With the overflowing youth:달려라! 쳐라! 넘쳐흐르는 젊음과
+SongInsFireDagwon:Go with the strength of flame, dear invincible fighter:불꽃의 힘을 품은 무적의 파이터
+SongInsFireDagwon:Aim! Shoot sharply! With the overflowing youth:노려라! 저격해라! 넘쳐흐르는 젊음과
+SongInsFireDagwon:Go with the might of flame, dear invincible Wing Shot!:불꽃의 위력을 담은 무적의 윙 샷
+SongInsED:What a wonderful sunshine:정말 아름다운 햇빛이야
+SongInsED:Just like a brand new day:마치 새로운 날처럼
+SongInsED:silent afternoon that I wouldn't expect:생각치도 못했던 조용한 오후
+SongInsED:I was singing to myself:나에게 노래부르고 있었어
+SongInsED:passing through the gentle hills:조용한 언덕을 지나가며
+SongInsED:then I came here to see the clear blue ocean:그리고 맑고 푸른 바다를 보러 여기에 왔어
+SongInsED:The ripples are lapping:잔물결이 밀려와
+SongInsED:I know, endless melody:알아, 끝없는 멜로디
+SongInsED:So it seems to keep its shape forever:그 모양 영원히 계속되도록
+SongInsED:I'll be following the fantastic world:굉장한 세상에 살아갈 거야
+SongInsED:Sparking in the distance:멀리서 반짝이던
+SongInsED:It's a prism in the wind:바람 속의 프리즘
