@@ -12,6 +12,9 @@ Video File: ../../Soundtracks/Yuusha Shirei Dagwon - Special Drama 2 - Sargasso 
 Video AR Mode: 4
 Video AR Value: 1.111111
 Video Zoom Percent: 0.625000
+Scroll Position: 18
+Active Line: 25
+Video Position: 1011
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,7 +47,7 @@ Dialogue: 0,0:00:35.96,0:00:41.76,Default,ko,0,0,0,,아니지. 쥬게무쥬게�
 Dialogue: 0,0:00:35.96,0:00:41.76,Default,en,0,0,0,,Wrong. I am Jugemujugemu Gokou no Surikire, Kaizarisuigyo no Suigyoumatsu...
 Comment: 0,0:00:42.09,0:00:50.10,Default,ja,0,0,0,,Fエン：変わった名前の宇宙人だな。何々、寿限無寿限無、五劫のすりきれ、海砂利水魚の水行末星人か？
 Dialogue: 0,0:00:42.09,0:00:50.10,Default,ko,0,0,0,,이상한 이름의 우주인이군. 어디어디, 쥬게무쥬게무 고코오노 스리키레, 카이자리스이교노 스이교오마츠 성인이냐?
-Dialogue: 0,0:00:42.09,0:00:50.10,Default,en,0,0,0,,Aren't you an alien with a strange name? Let's see, so you're Jugemujugemu Surikire, Kaizarisuigyo no Suigyoumatsu Seijin, right?
+Dialogue: 0,0:00:42.09,0:00:50.10,Default,en,0,0,0,,Aren't you an alien with a strange name? Let's see, so you're Jugemujugemu Goukou no Surikire, Kaizarisuigyo no Suigyoumatsu Seijin, right?
 Comment: 0,0:00:50.26,0:00:53.65,Default,ja,0,0,0,,宇宙人：雲来末、風来末…\NFエン：え？まだ続くのかよ？
 Dialogue: 0,0:00:50.26,0:00:53.65,Default,ko,0,0,0,,-운라이마츠, 후우라이마츠...\N-뭐? 더 있냐?
 Dialogue: 0,0:00:50.26,0:00:53.65,Default,en,0,0,0,,-Unraimatsu, Fuuraimatsu....\N-What? It's not over yet?
